@@ -5,3 +5,16 @@ Happy = True
 Dog = True
 Paid = false
 Valid = flase
+
+
+#this array will revmove the last person
+Student.pop
+
+#will show the elements in the array
+score.push
+
+#This array will remmove the first element
+bank.shift
+
+#this array will list the arrays
+Happy.lengh
