@@ -5,6 +5,7 @@ Happy = True
 Dog = True
 Paid = false
 Valid = flase
+# Index position 3 for students is bob. Index position 0 in score is 7
 
 
 #this array will revmove the last person
